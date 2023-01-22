@@ -1,0 +1,9 @@
+#three-grid img {
+    object-fit: cover;
+    height: 100%;
+}
+
+.lineaCompleta div {
+    height: 450px;
+    width: 450px;
+}
